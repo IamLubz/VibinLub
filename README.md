@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lub 👋</h1>
 <p align="center">
   <b>aka @vibinlub</b><br>
-  Developer • Designer • Builder of Bots & Websites
+  Developer • Designer • Minecraft Server Specialist
 </p>
 
 ---
@@ -9,9 +9,12 @@
 ### 🧠 About Me
 
 - 🔧 Developer & Designer from the Netherlands  
-- 🎮 Working on **Discord Bots**, **Minecraft Servers**, and cool **Websites**, but also many **designs**, and **drawings**  
+- 🎮 Minecraft Server **Beheerder & Maker**  
+- 🤖 Building **Discord Bots**, **Websites**, en creatieve projecten  
+- 🎬 Video Editor & Freelance Developer  
 - 💻 Passionate about clean code & sleek design  
-- 🌐 Check out my portfolio: [lubbertschenk.nl](https://lubbertschenk.nl)
+- 🌐 Portfolio: https://lubbertschenk.nl  
+- 📧 Email: info@lubbertschenk.nl  
 
 ---
 
@@ -36,14 +39,9 @@
 ### 💬 Let's Connect
 
 - 💬 Discord: `IamLubz`
-- 🌐 Portfolio: [lubbertschenk.nl](https://lubbertschenk.nl)
+- 🌐 Website: https://lubbertschenk.nl  
+- 📧 Email: info@lubbertschenk.nl  
 
 ---
 
 > *“To be or not to be.”*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vibinlub&label=Profile%20views&color=red&style=flat" alt="vibinlub" />
-</p>
