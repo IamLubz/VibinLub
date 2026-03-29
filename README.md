@@ -9,12 +9,10 @@
 ### 🧠 About Me
 
 - 🔧 Developer & Designer from the Netherlands  
-- 🎮 Minecraft Server **Beheerder & Maker**  
-- 🤖 Building **Discord Bots**, **Websites**, en creatieve projecten  
-- 🎬 Video Editor & Freelance Developer  
-- 💻 Passionate about clean code & sleek design  
-- 🌐 Portfolio: https://lubbertschenk.nl  
-- 📧 Email: info@lubbertschenk.nl  
+- 🎮 Minecraft Server **Manager & Creator**  
+- 🤖 Building **Discord Bots**, **Websites**, and creative projects.
+- 🎬 Video Editor & Freelancer 
+- 💻 Passionate about tech and pc's
 
 ---
 
