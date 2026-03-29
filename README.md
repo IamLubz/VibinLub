@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lub 👋</h1>
 <p align="center">
-  <b>aka @vibinlub</b><br>
-  Developer • Designer • Minecraft Server Specialist
+  <b>aka @IamLubz</b><br>
+  Developer • Designer • Manager
 </p>
 
 ---
